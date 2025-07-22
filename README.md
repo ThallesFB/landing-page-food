@@ -1,4 +1,4 @@
-<p align="start">
+<p align="center">
   <img src="https://github.com/user-attachments/assets/a20015ac-6b5d-48d0-af48-727a16942300" alt="Demonstração do projeto" width=""100%>
   <img src="https://github.com/user-attachments/assets/2e2f6348-c3a0-4258-86bf-993d0b4980f0" alt="Demonstração do projeto" width=""100%>
 </p>
